@@ -7,6 +7,15 @@ originContent: >-
   ![image.png](images.javayuan.cn/FjTudoWEnAdP2WganY_HIW-bXiFr)
 
 
+  安装支持库
+
+  ```bash
+
+  sudo yum install -y epel-release
+
+  ```
+
+
   安装依赖：
 
   ```bash
@@ -21,7 +30,7 @@ date: 2019-01-07 10:26:42
 ---
 
 缺少依赖：
-![image.png](images.javayuan.cn/FjTudoWEnAdP2WganY_HIW-bXiFr)
+![image.png](http://images.javayuan.cn/FjTudoWEnAdP2WganY_HIW-bXiFr)
 
 安装支持库
 ```bash
