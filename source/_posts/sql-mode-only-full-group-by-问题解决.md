@@ -1,8 +1,8 @@
 ---
 title: '''sql_mode=only_full_group_by''问题解决'
 tags: Blog
-originContent: ''
-categories: []
+categories:
+  - MySQL
 toc: false
 date: 2019-06-06 15:34:35
 ---
