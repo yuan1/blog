@@ -1,7 +1,9 @@
 ---
 title: hibernate-configuration
 date: 2017-2-28 9:13:7
-tags: Java
+tags: [Java,Hibernate,Config]
+categories:
+  - Java
 ---
 ```
 <hibernate-configuration>  

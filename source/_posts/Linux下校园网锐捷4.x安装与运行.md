@@ -1,7 +1,9 @@
 ---
 title: Linux下校园网锐捷4.x安装与运行
 date: 2018-6-10 4:24:18
-tags: Linux
+tags: [Linux,School]
+categories:
+  - Linux
 ---
 * 下载源码  
 [https://github.com/yuan1/mentohust](https://github.com/yuan1/mentohust)

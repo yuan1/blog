@@ -1,7 +1,9 @@
 ---
 title: 关于NoSQL
 date: 2017-11-9 3:27:31
-tags: 数据库
+tags: [NoSQL]
+categories:
+  - NoSQL
 ---
 
 #### 为什么需要NoSQL

@@ -1,8 +1,8 @@
 ---
 title: CENTOS 修改静态IP
-tags: Blog
-originContent: ''
-categories: []
+tags: [CentOS,IP]
+categories:
+  - Linux
 toc: false
 date: 2019-01-15 15:27:22
 ---

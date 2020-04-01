@@ -1,7 +1,9 @@
 ---
 title: MySQL使用HQL语句实现按中文拼音排序
 date: 2017-12-3 10:13:46
-tags: 数据库
+tags: [MySQL,HQL]
+categories:
+  - MySQL
 ---
 
 MySQL 默认字符集是utf-8,如果想实现中文排序,就需要用convert(filedName using gbk) 实现,但现有的hibernate的hql不能支持此函数,Hibernate已经对此做了相应的方案解决。我们可以在Dialect注册一个数据库函数,java代码如下：

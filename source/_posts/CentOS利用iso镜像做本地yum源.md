@@ -1,8 +1,8 @@
 ---
 title: CentOS利用iso镜像做本地yum源
-tags: Blog
-originContent: ''
-categories: []
+tags: [CentOS,ISO,YUM,Install]
+categories:
+  - Linux
 toc: false
 date: 2019-01-07 11:57:27
 ---

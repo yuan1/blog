@@ -1,7 +1,9 @@
 ---
 title: Java环境变量配置
 date: 2017-12-12 9:2:34
-tags: Java
+tags: [Java,Path]
+categories:
+  - Java
 ---
 * JAVA_HOME  
 C:\Program Files\Java\jdk1.8.0\_101

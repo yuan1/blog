@@ -1,6 +1,6 @@
 ---
 title: '''sql_mode=only_full_group_by''问题解决'
-tags: Blog
+tags: [MySQL,Mode]
 categories:
   - MySQL
 toc: false

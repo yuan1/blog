@@ -1,7 +1,9 @@
 ---
 title: MySQL命令
 date: 2017-5-9 7:26:52
-tags: 数据库
+tags: [MySQL]
+categories:
+  - MySQL
 ---
 
 注意：MySQL中每个命令后都要以分号;结尾。

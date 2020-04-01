@@ -1,7 +1,9 @@
 ---
 title: Javascript通过el计算年龄
 date: 2017-2-21 18:26:20
-tags: Javascript
+tags: [JS,EL,Age]
+categories:
+  - Html
 ---
 
 ```javascript

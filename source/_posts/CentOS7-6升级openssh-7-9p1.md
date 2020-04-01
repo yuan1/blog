@@ -1,8 +1,8 @@
 ---
 title: CentOS7.6升级openssh-7.9p1
-tags: Blog
-originContent: ''
-categories: []
+tags: [CentOS,Update,OpenSSH]
+categories:
+  - Linux
 toc: false
 date: 2019-05-16 13:37:22
 ---

@@ -1,7 +1,9 @@
 ---
 title: HibernateUtil.save
 date: 2017-10-15 12:3:19
-tags: Java
+tags: [Java,Hibernate,Util]
+categories:
+  - Java
 ---
 ```java
 Sessionsession=null;  

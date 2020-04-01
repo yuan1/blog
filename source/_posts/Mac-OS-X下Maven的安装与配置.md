@@ -1,7 +1,9 @@
 ---
 title: Mac-OS-X下Maven的安装与配置
 date: 2017-2-6 16:41:44
-tags: Mac
+tags: [Mac,Maven]
+categories:
+  - Mac
 ---
 #### 下载Maven
 到Maven官网下载安装包，选择下载Binary zip archive。下载完了之后，解压到一个目录，比如Users/lmy/maven。

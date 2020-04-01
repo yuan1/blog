@@ -1,7 +1,9 @@
 ---
 title: MYSQL-ERROR-1862
 date: 2017-12-10 8:15:1
-tags: 数据库
+tags: [MySQL,ERROR]
+categories:
+  - MySQL
 ---
 遇到错误：
 ```bash

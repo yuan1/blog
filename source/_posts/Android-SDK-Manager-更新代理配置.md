@@ -1,7 +1,9 @@
 ---
 title: Android SDK Manager 更新代理配置
-tags: Android
+tags: [Android,SDK]
 date: 2018-07-26 14:34:14
+categories:
+  - Android
 ---
 
 1. 启动 Android SDK Manager ，打开主界面，依次选择「Tools」、「Options...」，弹出『Android SDK Manager - Settings』窗口；

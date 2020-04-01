@@ -1,7 +1,9 @@
 ---
 title: 纯CSS Tooltips（鼠标经过时显示）
 date: 2017-11-24 17:7:57
-tags: Html
+tags: [Html,CSS,Tooltips]
+categories:
+  - Html
 ---
 <style type="text/css">  
     /*Tooltips*/  

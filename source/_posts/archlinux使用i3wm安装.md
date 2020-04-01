@@ -1,7 +1,9 @@
 ---
 title: archlinux使用i3wm安装
 date: 2017-11-1 13:31:25
-tags: Linux
+tags: [Linux,Arch,i3wm]
+categories:
+  - Linux
 ---
 ```bash
 安装i3窗口管理器  

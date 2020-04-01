@@ -1,7 +1,9 @@
 ---
 title: ubuntu16.04安装后要做的配置
 date: 2018-7-20 4:14:55
-tags: Linux
+tags: [Linux,Ubuntu,Install]
+categories:
+  - Linux
 ---
 
 * 卸载不常用的软件
@@ -11,8 +13,8 @@ tags: Linux
   
 * 安装必备软件
 ```bash
-unity-tweak-tool  
-sudo apt install unity-tweak-tool  
+ubuntu-tweak-tool  
+sudo apt install ubuntu-tweak-tool  
 screenfetch  
 sudo apt install screenfetch  
 gparted分区工具  

@@ -1,9 +1,9 @@
 ---
 title: 'Manjaro Update fails: signature is unknown trust'
-tags: Blog
-originContent: ''
-categories: []
-toc: false
+tags: [Linux,Manjaro]
+categories:
+  - Linux
+toc: true
 date: 2019-06-04 14:37:58
 ---
 

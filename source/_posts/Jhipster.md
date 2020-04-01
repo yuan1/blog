@@ -1,7 +1,9 @@
 ---
 title: Jhipster
 date: 2017-6-4 14:37:39
-tags: Java
+tags: [Java,Jhipster]
+categories:
+  - Java
 ---
 #### 1.简介
 JHipster或者称Java Hipster，是一个应用代码产生器，能够创建Spring Boot + AngularJS的应用。开源项目地址：JHipster/Github。

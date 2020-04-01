@@ -1,7 +1,9 @@
 ---
 title: archlinux安装2016.12.08
 date: 2016-12-08 5:14:32
-tags: Linux
+tags: [Linux,Arch,Install]
+categories:
+  - Linux
 ---
 #### 自己整理的ArchLinux安装用到的命令
 

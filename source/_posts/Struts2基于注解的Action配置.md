@@ -1,7 +1,9 @@
 ---
 title: Struts2基于注解的Action配置
 date: 2017-7-14 20:47:22
-tags: Java
+tags: [Java,Struts2,Action]
+categories:
+  - Java
 ---
 使用注解来配置Action的最大好处就是可以实现零配置，但是事务都是有利有弊的，使用方便，维护起来就没那么方便了。
 要使用注解方式，我们必须添加一个额外包：

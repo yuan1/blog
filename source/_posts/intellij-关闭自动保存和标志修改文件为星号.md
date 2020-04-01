@@ -1,7 +1,8 @@
 ---
 title: intellij 关闭自动保存和标志修改文件为星号
-tags: Blog
-categories: []
+tags: [IDEA,SAVE]
+categories:
+  - IDE
 toc: false
 date: 2019-03-27 12:15:52
 ---

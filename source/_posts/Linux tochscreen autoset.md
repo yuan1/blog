@@ -1,7 +1,9 @@
 ---
 title: Linux toch screen autoset
 date: 2018-12-29 13:51:56
-tags: Linux
+tags: [Linux,Screen,Touch]
+categories:
+  - Linux
 ---
 
 I wrote a simple script that will fix things using udev. First create /etc/udev/rules.d/99-monitor-hotplug.rules

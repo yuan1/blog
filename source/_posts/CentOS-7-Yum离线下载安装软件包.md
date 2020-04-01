@@ -1,7 +1,8 @@
 ---
 title: CentOS 7 Yum离线下载安装软件包
-tags: Blog
-categories: []
+tags: [CentOS,YUM,Install]
+categories:
+  - Linux
 toc: false
 date: 2019-05-16 14:05:32
 ---
@@ -63,5 +64,3 @@ yum localinstall -y --nogpgcheck supervisor-3.1.4-1.el7.noarch.rpm \
 2.“--nogpgcheck”参数主要是为了不让yum对程序包进行GPG验证；
 
 3.除了yum localinstall命令以外，还可以使用rpm -ivh命令安装rpm包，这里不再单独讨论。
-
-![huahua.png](http://images.javayuan.cn/FrqHLkqKeaVerSB9KVOORNPMhYqb)

@@ -1,7 +1,9 @@
 ---
 title: HibernateUtil
 date: 2017-10-9 2:14:34
-tags: Java
+tags: [Java,Hibernate,Util]
+categories:
+  - Java
 ---
 ```java
 package com.yuan.hibernate;  

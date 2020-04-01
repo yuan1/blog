@@ -1,7 +1,9 @@
 ---
 title: 定制ubuntu系统安装镜像
 date: 2018-10-12 17:49:44
-tags: Linux
+tags: [Ubuntu,Linux]
+categories:
+  - Linux
 ---
 
 ## 环境准备

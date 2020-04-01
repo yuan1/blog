@@ -1,7 +1,9 @@
 ---
 title: Java面试题
 date: 2017-1-14 18:39:1
-tags: Java
+tags: [Java]
+categories:
+  - Java
 ---
 ##### 什么是Java虚拟机？为什么Java被称作是“平台无关的编程语言”？
 

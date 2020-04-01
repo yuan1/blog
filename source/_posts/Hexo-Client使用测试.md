@@ -1,6 +1,6 @@
 ---
 title: Hexo Client使用测试
-tags: Blog
+tags: [Hexo,Client,Test]
 originContent: >-
   ## 使用Hexo Client测试
 
@@ -18,7 +18,8 @@ originContent: >-
 
 
   ```
-categories: []
+categories:
+  - Other
 toc: false
 date: 2019-01-03 11:18:17
 ---

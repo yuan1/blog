@@ -1,8 +1,8 @@
 ---
 title: "某ide\U0001F414\U0001F525\U0001F40E"
-tags: Blog
-originContent: ''
-categories: []
+tags: [IDEA]
+categories:
+  - IDE
 toc: false
 date: 2019-03-27 11:12:57
 ---

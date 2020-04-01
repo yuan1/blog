@@ -1,7 +1,9 @@
 ---
 title: Linux下git使用
 date: 2017-8-8 4:15:33
-tags: Linux
+tags: [Linux,git]
+categories:
+  - Linux
 ---
 * 在github上创建项目
 * 使用git clone https://github.com/xxxxxxx/xxxxx.git克隆到本

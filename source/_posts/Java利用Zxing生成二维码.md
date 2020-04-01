@@ -1,7 +1,9 @@
 ---
 title: Java利用Zxing生成二维码
 date: 2018-2-12 22:42:37
-tags: Java
+tags: [Java,Code]
+categories:
+  - Java
 ---
 #### Maven 依赖
 ```

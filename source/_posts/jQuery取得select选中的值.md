@@ -1,7 +1,9 @@
 ---
 title: jQuery取得select选中的值
 date: 2017-11-14 5:31:45
-tags: Javascript
+tags: [JS,jQuery]
+categories:
+  - Html
 ---
 记录一下。
 本来以为jQuery(“#select1”).val();是取得选中的值，

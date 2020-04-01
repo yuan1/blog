@@ -1,7 +1,9 @@
 ---
 title: JS保留小数点后面2位小数
 date: 2017-7-21 10:43:31
-tags: Javascript
+tags: [JS]
+categories:
+  - Html
 ---
 1. 最笨的办法...我就怎么干的
 
